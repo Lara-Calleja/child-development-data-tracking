@@ -1,9 +1,9 @@
-# 🧩 Autism Home Progress Tracker
+# Autism Home Progress Tracker
 
 This project is a structured data tracker for monitoring a child's autism therapy progress at home.  
 It helps parents and therapists make data-driven decisions using real behavioral, communication, and emotional data.
 
-## 📘 Features
+##  Features
 - Daily/weekly logging of target skills, prompts, and outcomes
 - Behavioral data tracking (meltdowns, triggers, coping)
 - Quantifiable measures for therapy reports
