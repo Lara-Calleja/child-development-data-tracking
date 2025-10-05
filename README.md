@@ -34,6 +34,6 @@ It helps parents and therapists make data-driven decisions using real behavioral
 
 ---
 
-Author: [Lara Calleja]  
+Author: Lara Calleja
 Role: Data Analyst / Autism Parent  
 Purpose: Personal data-driven home therapy support + analytics portfolio project
